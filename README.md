@@ -22,6 +22,11 @@
     </div>
     <p> After getting a basis knowledge on HTML I had to apply it in a real platform. I search all over the internet and I had finally found a practicing platform. It is called JSFiddle. JSFiddle is a cool website that when you sign up, you can practice your
       coding on a actual platform.<a href="https://jsfiddle.net/" target="_blank">JSFiddle</a></p>
+      <h2> How I Uploaded My Website</h2>
+      <div>
+      <p> The software I use to upload my website if called GitHub. GitHub is a free way to create a website that you own. The only downside is that you must learn HTML before creating it because this website uses HTML. Click the link below to go to GitHub.</p>
+      <a href="https://github.com/" target="_blank">GitHub</a>
+      </div>
     <div>
       <h3> Thanks for reading my first website! Have a good day!</h3>
     </div>
