@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<title>Coding</title>
 <h1>My First Website</h1>
 <h2>How I Did it</h2>
 <p> My name is Josh, Grade 8, and this is my first website. I have learned using one method,<strong>HTML</strong>. HTML stands for HyperText Markup Language. HTML is the code you use for website design and other website based activities.</p>
