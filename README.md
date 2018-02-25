@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<title>Coding</title>
 <style>
 body{
 background-color: #ff9933
